@@ -1,0 +1,14 @@
+name: Publish new content
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  publish:
+    name: Call deployment API to tell backend to fetch new content
+    runs-on: ubuntu-latest
+    steps:
+      - run: 'curl --location "${{ secrets.DEPLOYMENT_URL }}" --header "Authorization: Bearer ${{ secrets.DEPLOYMENT_KEY }}"'
