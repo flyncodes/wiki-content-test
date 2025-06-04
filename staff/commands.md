@@ -1,5 +1,7 @@
 # Staff Commands
 
+## List of commands for all staff.
+
 #### Commands for Mods and higher:
 
 - /gamemode&#x20;
@@ -60,6 +62,7 @@ WorldEdit can be requested from an Op
 
 
 
+
 **Punishments plugin:**
 
 - /ban \<username> \[reason]
@@ -112,6 +115,7 @@ WorldEdit can be requested from an Op
 
 
 
+
 - /spectate or /spec \<username>
 
   - Spectate the specified person from their point of view.
@@ -119,6 +123,7 @@ WorldEdit can be requested from an Op
 - /spectate stop
 
   - Stops spectating the person, puts you back into survival and teleports you to spawn.
+
 
 
 
