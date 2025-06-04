@@ -12,19 +12,23 @@
 
 - /invsee \<username>
 
-  - Shows a GUI, of the persons inventory & armour slots.
+  - Shows a GUI, of the persons current inventory & armour slots.
 
   - You can drag items out of the GUI and the item will be taken out or moved around the persons inventory/armour slots if needed.
 
+- /irp restore \<username>
 
+  - Shows a GUI, of every time their full inventory was backed up and saved automatically.
+
+  - Clicking on the chest will open another GUI showing their full inventory at that time, you can then click the nether star to override their inventory with that backup.
+ 
+  - More information can be found [here](https://www.spigotmc.org/resources/inventory-rollback-plus-1-8-1-21-5.85811/) about this plugin.
 
 WorldEdit can be requested from an Op
 
+--- 
 
-
-#### All staff have access to the follow commands.
-
-
+#### All staff have access to the follow commands:
 
 **CoreProtect plugin:**
 
@@ -59,9 +63,6 @@ WorldEdit can be requested from an Op
   - (Optional) Specifying `include:<include>` to only look for a specific block or entity.
 
   - (Optional) Specifying `exclude:<exclude>` to exclude a block or entity from the look up.
-
-
-
 
 **Punishments plugin:**
 
@@ -110,9 +111,8 @@ WorldEdit can be requested from an Op
   - It remembers how many punishments have occurred previously, so a higher level of punishment can be handed out in future.&#x20;
 
   - Hover over the glass panes to show specific punishments, clicking on them will hand out that punishment to the specified person.
-
-
-
+ 
+  - At the moment, it is not recommended to rollback a permanently banned person, in case they submit an appeal. It is suggested you wait a week to see if they submit an appeal or their ban length is adjusted, if they do not you should rollback their actions 60 days using CoreProtect. 
 
 
 
