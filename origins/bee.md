@@ -2,13 +2,13 @@
 
 ## General Stats
 
-The buzziest guy youll ever met  
-Friends with Phytokins and loves honey  
+The buzziest guy youll ever met.  
+Friends with Phytokins and loves honey.  
 Difficulty / Complexity: 2  
 
 ## Mobility
 
-Speed: 100% (Sneaking: 70%) Jump Height:80% ( Gravity: 40%)  
+Speed: 100% (Sneaking: 70%) Jump Height:80% (Gravity: 40%)  
 Luck: 0.0  
 Size: 50%  
 Metabolic Adjustment: 0.0  

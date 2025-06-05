@@ -2,12 +2,12 @@
 
 ## General Stats
 
-The OG - Steve from minecraft  
+The OG - Steve from minecraft.  
 Difficulty / Complexity: 1  
 
 ## Mobility
 
-Speed: 100% (Sneaking: 30%) Jump Height:100% ( Gravity: 100%)  
+Speed: 100% (Sneaking: 30%) Jump Height:100% (Gravity: 100%)  
 Luck: 0.0  
 Size: 100%  
 Metabolic Adjustment: 0.0  

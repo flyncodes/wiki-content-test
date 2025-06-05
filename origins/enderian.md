@@ -2,12 +2,12 @@
 
 ## General Stats
 
-Half man, half enderman, 100% hatred for water. Good thing you can teleport  
+Half man, half enderman, 100% hatred for water. Good thing you can teleport.  
 Difficulty / Complexity: 3  
 
 ## Mobility
 
-Speed: 103% (Sneaking: 30%) Jump Height:110% ( Gravity: 95%)  
+Speed: 103% (Sneaking: 30%) Jump Height:110% (Gravity: 95%)  
 Luck: 0.0  
 Size: 150%  
 Metabolic Adjustment: -0.002  

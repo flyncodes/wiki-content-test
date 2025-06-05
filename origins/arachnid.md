@@ -1,5 +1,7 @@
 # Arachnid
 
+## General Stats
+
 8 legs, 8 eyes, 8x the fun  
 WIP - partly implemented  
 Difficulty / Complexity: 2  

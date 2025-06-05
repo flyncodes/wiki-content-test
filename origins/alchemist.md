@@ -2,12 +2,12 @@
 
 ## General Stats
 
-The child of a village Librarian and a witch. Specializes in enchanting potions, and explosives  
+The child of a village Librarian and a witch. Specializes in enchanting potions, and explosives.  
 Difficulty / Complexity: 4  
 
 ## Mobility
 
-Speed: 105% (Sneaking: 30%) Jump Height:100% ( Gravity: 100%)  
+Speed: 105% (Sneaking: 30%) Jump Height:100% (Gravity: 100%)  
 Luck: 0.0  
 Size: 100%  
 Metabolic Adjustment: 0.0  

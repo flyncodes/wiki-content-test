@@ -2,12 +2,12 @@
 
 ## General Stats
 
-A fast herbivore that plays with luck  
+A fast herbivore that plays with luck.  
 Difficulty / Complexity: 1  
 
 ## Mobility
 
-Speed: 150% (Sneaking: 33%) Jump Height:100% ( Gravity: 95%)  
+Speed: 150% (Sneaking: 33%) Jump Height:100% (Gravity: 95%)  
 Luck: 3.0  
 Size: 50%  
 Metabolic Adjustment: -0.008  

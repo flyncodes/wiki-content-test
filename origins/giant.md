@@ -2,12 +2,12 @@
 
 ## General Stats
 
-A big sturdy human  
-Difficulty / Complexity: 4
+A big sturdy human.  
+Difficulty / Complexity: 4  
 
 ## Mobility
 
-Speed: 133% (Sneaking: 25%) Jump Height:200% ( Gravity: 100%)  
+Speed: 133% (Sneaking: 25%) Jump Height:200% (Gravity: 100%)  
 Luck: 0.0  
 Size: 200%  
 Metabolic Adjustment: 0.01  

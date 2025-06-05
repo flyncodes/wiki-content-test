@@ -2,12 +2,12 @@
 
 ## General Stats
 
-A pacifist small creature that is an expert at building  
+A pacifist small creature that is an expert at building.  
 Difficulty / Complexity: 4  
 
 ## Mobility
 
-Speed: 90% (Sneaking: 50%) Jump Height:80% ( Gravity: 50%)  
+Speed: 90% (Sneaking: 50%) Jump Height:80% (Gravity: 50%)  
 Luck: 1.0  
 Size: 30%  
 Metabolic Adjustment: -0.006  
