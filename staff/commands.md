@@ -1,8 +1,8 @@
 # Staff Commands
 
-## List of commands for all staff.
+## List of commands for all staff
 
-#### Commands for Mods and higher:
+### Commands for Mods and higher
 
 - /gamemode&#x20;
 
@@ -21,14 +21,14 @@
   - Shows a GUI, of every time their full inventory was backed up and saved automatically.
 
   - Clicking on the chest will open another GUI showing their full inventory at that time, you can then click the nether star to override their inventory with that backup.
- 
-  - More information can be found [here](https://www.spigotmc.org/resources/inventory-rollback-plus-1-8-1-21-5.85811/) about this plugin.
+
+  - More information can be found [here about this plugin](https://www.spigotmc.org/resources/inventory-rollback-plus-1-8-1-21-5.85811/).
 
 WorldEdit can be requested from an Op
 
---- 
+---
 
-#### All staff have access to the follow commands:
+### All staff have access to the follow commands
 
 **CoreProtect plugin:**
 
@@ -58,7 +58,7 @@ WorldEdit can be requested from an Op
 
   - (Recommended) Specifying `user:<username>` to only look back on this persons actions.
 
-  - (Optional) Specifying `action:<action>` (e.g `+block` for blocks placed, `-block` for blocks broken, `block` for blocks placed & broken, `chat` for chat messages sent, `+container` for items put in chests, `-container` for items removed from chests, `container` for items put in or removed from chests, `+inventory` for items added to their inventory, `-inventory` for items removed from their inventory, `inventory` for items added or removed from their inventory, `+item` for items picked up, `-item` for items dropped, `item` for items picked up or dropped) See all actions [here](https://docs.coreprotect.net/commands/#aaction)
+  - (Optional) Specifying `action:<action>` (e.g `+block` for blocks placed, `-block` for blocks broken, `block` for blocks placed & broken, `chat` for chat messages sent, `+container` for items put in chests, `-container` for items removed from chests, `container` for items put in or removed from chests, `+inventory` for items added to their inventory, `-inventory` for items removed from their inventory, `inventory` for items added or removed from their inventory, `+item` for items picked up, `-item` for items dropped, `item` for items picked up or dropped) See all actions [here on docs.coreprotect.net](https://docs.coreprotect.net/commands/#aaction)
 
   - (Optional) Specifying `include:<include>` to only look for a specific block or entity.
 
@@ -111,8 +111,8 @@ WorldEdit can be requested from an Op
   - It remembers how many punishments have occurred previously, so a higher level of punishment can be handed out in future.&#x20;
 
   - Hover over the glass panes to show specific punishments, clicking on them will hand out that punishment to the specified person.
- 
-  - At the moment, it is not recommended to rollback a permanently banned person, in case they submit an appeal. It is suggested you wait a week to see if they submit an appeal or their ban length is adjusted, if they do not you should rollback their actions 60 days using CoreProtect. 
+
+  - At the moment, it is not recommended to rollback a permanently banned person, in case they submit an appeal. It is suggested you wait a week to see if they submit an appeal or their ban length is adjusted, if they do not you should rollback their actions 60 days using CoreProtect.
 
 
 
@@ -154,4 +154,3 @@ WorldEdit can be requested from an Op
   - Messages you type in chat will be sent to this chat.
 
   - If you prefer to stay in staff chat, but be able to send a message to global chat without needing to switch. Use `/global <message>`
- 

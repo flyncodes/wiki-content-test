@@ -1,1 +1,4 @@
 label: 'Frequently Asked Questions'
+link:
+  type: generated-index
+  title: FAQ
